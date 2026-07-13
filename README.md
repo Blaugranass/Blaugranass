@@ -29,7 +29,6 @@ Hi, I'm Artem Logovoy👋
 ![Swagger](https://shields.io)
 
 📫 Contacts
-
-    📧 Email: aartlogovoy@gmail.com
-    💼 LinkedIn
-    ✈️ Telegram
+[![Telegram](https://shields.io)](https://t.me/blaugranass#)
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/artem-logovoy-61205a30b/)
+[![Email](https://shields.io)](mailto:aartlogovoy@gmail.com)
