@@ -1,7 +1,6 @@
 Hi, I'm Artem Logovoy👋
 
 🎓 Computer Science student from Minsk, Belarus, focused on Backend developing . 🔭 Looking for my first role as a Junior  (remote or on-site). 📚 Studying at BSUIR.
-🛠️ Tech stack
 
 ### 🛠️ Tech Stack & Tools
 
